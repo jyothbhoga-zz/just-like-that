@@ -1,0 +1,2 @@
+[0627/125224.297:ERROR:exception_snapshot_win.cc(87)] thread ID 4940 not found in process
+[0627/125224.300:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
